@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chess_git2/static/css/main.e1333512.css",
+    "main.js": "/chess_git2/static/js/main.1a337b46.js",
+    "static/media/bootstrap-icons.woff?": "/chess_git2/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/chess_git2/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "index.html": "/chess_git2/index.html",
+    "main.e1333512.css.map": "/chess_git2/static/css/main.e1333512.css.map",
+    "main.1a337b46.js.map": "/chess_git2/static/js/main.1a337b46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1333512.css",
+    "static/js/main.1a337b46.js"
+  ]
+}
